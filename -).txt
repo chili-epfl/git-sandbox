@@ -1,3 +1,7 @@
 Bonjour :)
+<<<<<<< Updated upstream
 
 *********************************
+=======
+HELLO!
+>>>>>>> Stashed changes
